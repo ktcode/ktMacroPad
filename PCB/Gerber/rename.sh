@@ -1,0 +1,9 @@
+mv ktMacroPad-F_Cu.gbr ktMacroPad.GTL
+mv ktMacroPad-B_Cu.gbr ktMacroPad.GBL
+mv ktMacroPad-B_Silkscreen.gbr ktMacroPad.GBO
+mv ktMacroPad-F_Silkscreen.gbr ktMacroPad.GTO
+mv ktMacroPad-B_Mask.gbr ktMacroPad.GBS
+mv ktMacroPad-F_Mask.gbr ktMacroPad.GTS
+mv ktMacroPad-Edge_Cuts.gbr ktMacroPad.GML
+mv ktMacroPad-NPTH.drl ktMacroPad-NPTH.TXT
+mv ktMacroPad-PTH.drl ktMacroPad.TXT
